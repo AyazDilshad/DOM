@@ -1,0 +1,28 @@
+#main {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+#sara-aman {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 500px;
+    height: 200px;
+    border-radius: 10px;
+    background-color: rgb(224, 250, 239);
+    box-shadow: 0 10px 10px 0 rgb(88, 147, 224);
+}
+
+
+button {
+    padding: 5px 8px;
+    background-color:rgb(88, 147, 224);
+    border: none;
+    border-radius: 5px;
+}
